@@ -28,7 +28,6 @@
     "package.json",
     "src",
     "dist",
-    "types.d.ts",
     "README.md",
     "LICENSE.md",
     "AUTHORS.txt",
